@@ -143,6 +143,7 @@ header {
 }
 
 .lesson {
+  float: left;
   margin: 15px;
   width: 25%;
 }
@@ -156,6 +157,7 @@ header {
   top: 44%;
   width: 100%;
   color: white;
+  font-size: 50px;
 }
 
 .text-contents {
