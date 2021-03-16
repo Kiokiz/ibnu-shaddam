@@ -90,7 +90,7 @@ header {
 }
 
 .logo {
-  width: 65px;
+  width: 80px;
   margin-top: 20px;
 }
 
@@ -148,7 +148,7 @@ header {
 }
 
 .lesson-icon {
-  position: relative;
+  position: absolute;
 }
 
 .lesson-icon p {
