@@ -23,7 +23,7 @@ a {
 
 .top-wrapper {
   padding: 180px 0 100px 0;
-  background-image: url(https://prog-8.com/images/html/advanced/top_en.png);
+  background-image: url(https://pbs.twimg.com/media/EZdU_SPXgAEsjre.jpg);
   background-size: cover;
   color: white;
   text-align: center;
@@ -90,7 +90,7 @@ header {
 }
 
 .logo {
-  width: 75px;
+  width: 65px;
   margin-top: 20px;
 }
 
@@ -192,7 +192,7 @@ header {
 }
 
 footer img {
-  width: 125px;
+  width: 65px;
 }
 
 footer p {
