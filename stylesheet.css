@@ -30,14 +30,12 @@ a {
 }
 
 .top-wrapper h1 {
-  opacity: 1;
   font-size: 45px;
   letter-spacing: 5px;
   margin-bottom: 10px;
 }
 
 .top-wrapper p {
-  opacity: 1;
   margin-bottom: 3px;
 }
 
@@ -144,7 +142,7 @@ header {
 
 .lesson {
   float: left;
-  margin: 30px;
+  margin: 40px;
   width: 25%;
 }
 
