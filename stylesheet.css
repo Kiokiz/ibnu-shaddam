@@ -158,7 +158,7 @@ header {
   width: 100%;
   color: white;
   font-size: 25px;
-  font-family: cursive;
+  font-family: "cursive";
 }
 
 .text-contents {
