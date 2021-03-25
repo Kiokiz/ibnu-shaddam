@@ -141,7 +141,7 @@ header {
 
 .lesson {
   float: left;
-  margin: 40px;
+  margin: 45px;
   width: 25%;
 }
 
@@ -155,7 +155,6 @@ header {
   width: 100%;
   color: white;
   font-size: 25px;
-  font-family: "cursive";
 }
 
 .text-contents {
