@@ -11,6 +11,24 @@ a {
   text-decoration: none;
 }
 
+.search {
+    padding:8px 15px;
+    background:rgba(50, 50, 50, 0.2);
+    border:0px solid #dbdbdb;
+}
+.button {
+    position:relative;
+    padding:6px 15px;
+    left:-8px;
+    border:2px solid #000000;
+    background-color:#ffffff;
+    color:#fafafa;
+}
+.button:hover  {
+    background-color:#fafafa;
+    color:#207cca;
+}
+
 .clear {
   clear: left;
 }
@@ -78,6 +96,7 @@ a {
   opacity: 0.6;
   text-align: center;
   border-radius: 4px;
+  background-size: cover;
 }
 
 .btf:hover {
@@ -85,7 +104,6 @@ a {
   border: solid #aaa;
   opacity: 1;
   transition: all 0.5s;
-  background-size: cover;
 }
 
 .fa {
