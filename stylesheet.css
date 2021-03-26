@@ -20,13 +20,13 @@ a {
     position:relative;
     padding:6px 15px;
     left:-8px;
-    border:2px solid #000000;
-    background-color:#ffffff;
+    border:2px solid #ffffff;
+    background-color:#000000;
     color:#fafafa;
 }
 .button:hover  {
     background-color:#fafafa;
-    color:#207cca;
+    color:#ffffff;
 }
 
 .clear {
@@ -216,7 +216,7 @@ header {
   padding: 15px 40px;
   background-color: #000000;
   cursor: pointer;
-  box-shadow: 0 7px #404040;
+  box-shadow: 2px 7px #404040;
 }
 
 .message:active {
