@@ -192,6 +192,7 @@ header {
   color: white;
   font-size: 25px;
   font-weight: bold;
+  opacity: 1;
 }
 
 .text-contents {
