@@ -74,6 +74,16 @@ a {
   opacity: 1;
 }
 
+.btf {
+  opacity: 0.6;
+  text-align: center;
+}
+
+.btf:hover {
+  background:#ffffff; 
+  border:1px solid #aaa;
+}
+
 .fa {
   margin-right: 5px;
 }
