@@ -20,8 +20,8 @@ form {
     position: relative;
     padding: 6px 15px;
     left: -8px;
-    border: 2px solid #000000;
-    background-color: #ffffff;
+    border: 2px solid #ffffff;
+    background-color: #000000;
     color: #fafafa;
 }
 .button:hover  {
@@ -104,7 +104,7 @@ a {
 
 .btf:hover {
   background: #ffffff; 
-  border: 2px solid #aaa;
+  border: solid #aaa;
   opacity: 1;
 }
 
