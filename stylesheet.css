@@ -21,7 +21,7 @@ a {
     padding:6px 15px;
     left:-8px;
     border:2px solid #000000;
-    background-color:#ffffff;
+    background-color:#000000;
     color:#fafafa;
 }
 .button:hover  {
@@ -95,8 +95,7 @@ a {
 .btf {
   opacity: 0.6;
   text-align: center;
-  border-radius: 4px;
-  background-size: cover;
+  border-radius: 20px;
 }
 
 .btf:hover {
