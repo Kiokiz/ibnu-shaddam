@@ -105,6 +105,7 @@ a {
 .btf:hover {
   background: #ffffff; 
   border: 2px solid #aaa;
+  opacity: 1;
 }
 
 .fa {
