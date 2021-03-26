@@ -186,13 +186,13 @@ header {
 }
 
 .lesson-icon p {
+  opacity: 1;
   position: absolute;
   top: 44%;
   width: 100%;
   color: white;
   font-size: 25px;
   font-weight: bold;
-  opacity: 1;
 }
 
 .text-contents {
