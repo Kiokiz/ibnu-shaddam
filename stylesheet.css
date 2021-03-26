@@ -7,28 +7,6 @@ body {
   font-family: "Lucida Grande";
 }
 
-form {
-    width:500px;
-    margin:50px auto;
-}
-.search {
-    padding:8px 15px;
-    background:rgba(50, 50, 50, 0.2);
-    border:0px solid #dbdbdb;
-}
-.button {
-    position:relative;
-    padding:6px 15px;
-    left:-8px;
-    border:2px solid #ffffff;
-    background-color:#000000;
-    color:#fafafa;
-}
-.button:hover  {
-    background-color:#fafafa;
-    color:#207cca;
-}
-
 a {
   text-decoration: none;
 }
@@ -106,6 +84,8 @@ a {
   background: #ffffff; 
   border: solid #aaa;
   opacity: 1;
+  transition: all 0.5s;
+  background-size: cover;
 }
 
 .fa {
